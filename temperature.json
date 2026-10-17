@@ -1,0 +1,78 @@
+{
+ "1996": {
+  "n": 1,
+  "overturn_rate": 0.0
+ },
+ "2002": {
+  "n": 1,
+  "overturn_rate": 0.0
+ },
+ "2006": {
+  "n": 135,
+  "overturn_rate": 0.444
+ },
+ "2007": {
+  "n": 129,
+  "overturn_rate": 0.357
+ },
+ "2008": {
+  "n": 140,
+  "overturn_rate": 0.321
+ },
+ "2009": {
+  "n": 74,
+  "overturn_rate": 0.311
+ },
+ "2010": {
+  "n": 41,
+  "overturn_rate": 0.488
+ },
+ "2011": {
+  "n": 697,
+  "overturn_rate": 0.769
+ },
+ "2012": {
+  "n": 2868,
+  "overturn_rate": 0.389
+ },
+ "2013": {
+  "n": 554,
+  "overturn_rate": 0.301
+ },
+ "2014": {
+  "n": 47,
+  "overturn_rate": 0.404
+ },
+ "2015": {
+  "n": 16,
+  "overturn_rate": 0.5
+ },
+ "2016": {
+  "n": 14,
+  "overturn_rate": 0.214
+ },
+ "2017": {
+  "n": 5,
+  "overturn_rate": 0.2
+ },
+ "2018": {
+  "n": 649,
+  "overturn_rate": 0.661
+ },
+ "2019": {
+  "n": 9,
+  "overturn_rate": 0.556
+ },
+ "2024": {
+  "n": 57,
+  "overturn_rate": 0.912
+ },
+ "2025": {
+  "n": 4,
+  "overturn_rate": 0.75
+ },
+ "2026": {
+  "n": 444,
+  "overturn_rate": 0.919
+ }
+}
